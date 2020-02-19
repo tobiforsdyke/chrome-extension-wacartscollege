@@ -9,7 +9,7 @@ html, body {
 
 h1 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 400;
   margin: 0;
   color: #3a0094;
@@ -46,9 +46,10 @@ a:link, a:visited {
 }
 
 .logo-icon {
-  vertical-align: text-bottom;
-  margin-right: 12px;
-  width: 30px;
+  float: right;
+  padding: 10px;
+  padding-left: 60px;
+  width: 76px;
 }
 
 .version {
