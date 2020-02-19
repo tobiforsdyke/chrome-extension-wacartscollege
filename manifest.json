@@ -1,0 +1,27 @@
+{
+  "name": "Wac Arts College",
+  "version": "1.0",
+  "description": "Useful links for students of Wac Arts College",
+  "permissions": ["storage","activeTab","tabs"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "options_page": "options.html",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/waclogo16.png",
+      "32": "images/waclogo32.png",
+      "48": "images/waclogo48.png",
+      "128": "images/waclogo128.png"
+    }
+  },
+  "icons": {
+    "16": "images/waclogo16.png",
+    "32": "images/waclogo32.png",
+    "48": "images/waclogo48.png",
+    "128": "images/waclogo128.png"
+  },
+  "manifest_version": 2
+}
