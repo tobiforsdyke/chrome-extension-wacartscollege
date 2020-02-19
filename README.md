@@ -1,4 +1,5 @@
-# Wac Arts College Google Chrome Extension
+# WAC Google Chrome Extension
+## Google Chrome Extension for Wac Arts College
 
 A Google Chrome extension which provides useful links for students of Wac Arts College.
 
