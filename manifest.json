@@ -1,6 +1,6 @@
 {
   "name": "Wac Arts College Launcher",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Useful links for students of Wac Arts College",
   "permissions": ["activeTab"],
   "browser_action": {
